@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<racas>
+    <raca id="1">
+        <nome> Humano</nome>
+        <atributos> </atributos>
+        <contra></contra>
+    </raca>
+
+    <raca id="2">
+        <nome> Anão</nome>
+        <atributos>Infravisão; Resistência à Magia; Testes de Resistência +1; Inimigos(orcs,goblinoides,trolls);</atributos>
+        <contra></contra>
+    </raca>
+
+    <raca id="3">
+        <nome>Elfo </nome>
+        <atributos>H +1; Visão Aguçada; FA+1 com espada e arco; Aptidão para Magia Elemental;</atributos>
+        <contra></contra>
+    </raca>
+
+    <raca id="7">
+        <nome> Meio-Elfo</nome>
+        <atributos>Visão Aguçada; Aptidão para Artes e Manipulação;</atributos>
+        <contra></contra>
+    </raca>
+
+    <raca id="12">
+        <nome> Goblin</nome>
+        <atributos>Testes de Resistência +1; Infravisão;Aptidão para Crime; Má Fama; Magia(custa 3 pontos cada);</atributos>
+        <contra></contra>
+    </raca>
+
+</racas>
